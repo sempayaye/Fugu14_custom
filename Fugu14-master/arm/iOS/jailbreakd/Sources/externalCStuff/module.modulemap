@@ -1,3 +1,0 @@
-module externalCStuff [system] {
-    header "externalCStuff.h"
-}

@@ -1,3 +1,0 @@
-module LibKRW_Plugin [system] {
-    header "libkrw_plugin.h"
-}
